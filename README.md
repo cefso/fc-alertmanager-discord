@@ -1,0 +1,2 @@
+# fc-alertmanager-discord
+使用阿里云函数计算将alertmanager推送到discord
